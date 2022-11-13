@@ -1,17 +1,20 @@
 # Website-boilerplate
-In this repo you find a very simple &amp; basic boilerplate I personally used to follow for new projects
 
+In this repo you will find a very simple &amp; basic boilerplate, That I personally use to follow for new projects as a template.
 
 ## Built with
+
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Feedback
+
 If you have any query, please reach me at : abdulwaheed@ieee.org
 
 ## LICENSE
+
 This repo is under MIT LICENSE you can learn more about it here:  
 [MIT LICENSE](LICENSE)
 
